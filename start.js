@@ -8,7 +8,7 @@ const fs = require('fs');
 
 //Create objects
 const client = new Discord.Client();
-const steam = new SteamAPI('D856B578ADEE11FCD49857E4ADD78AAF');
+const steam = new SteamAPI('YOUR API');
 
 //Client prefix
 const prefix = "!";
